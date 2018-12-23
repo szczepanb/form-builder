@@ -11,6 +11,9 @@ Install yarn from https://yarnpkg.com/en/docs/getting-started
 
 Run your bash and get to the project directory.
 
+Install Angular CLI globaly:
+yarn global add @angular/cli 
+
 Run: yarn install
 
 ## Running
