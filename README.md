@@ -17,6 +17,7 @@ yarn global add @angular/cli
 Run: yarn install
 
 ## Running
+Run yarn run install
 Run yarn run start
 
 ## Authors
