@@ -14,6 +14,7 @@
     "dexie": "^2.0.4"
   },
   "scripts": {
+    "install": "npm install && cd forms && npm install",
     "start": "cd forms && ng serve --prod"
   }
 }
